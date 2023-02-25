@@ -1,16 +1,7 @@
 # text_copier
 
-A new Flutter project.
+A simple mobile application that allows a User to Copy text
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1677350159](https://user-images.githubusercontent.com/66890167/221374016-3548134b-0ce3-48c0-be6b-485dc5924f62.png)
+![Screenshot_1677350162](https://user-images.githubusercontent.com/66890167/221374020-dffb4c63-95f9-45b7-a4d4-587cbb367255.png)
